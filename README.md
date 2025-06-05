@@ -1,4 +1,4 @@
-# Auto-Wifi una Herramienta de auditoria wifi para kali linux 🔥
+# Wificrack una Herramienta automatizada de auditoria wifi para kali linux 🔥
 
 Una herrmaienta desarrollada en Bash, con el proposito de entender como funciona las auditorias Wi-Fi, incluyendo deteccion de interfaces, escaneo de redes captura de hashshakes y ataques con diccionario aircrack.ng
 
@@ -34,7 +34,7 @@ se debe de clonar el repositorio **recomendacion: escribir los scripts en modo s
 sudo gir colne 
 ```
 
-## paso 3 - Descargar Diccionario y moverlo a la carpeta
+### paso 3 - Descargar Diccionario y moverlo a la carpeta
 
 
 
