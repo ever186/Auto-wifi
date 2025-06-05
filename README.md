@@ -22,22 +22,24 @@ se una un lista de contraseña comunes como los es *rockyou.txt* y con ataques d
 
 ### paso 1 - Instala la Herrmienta
 
-para empezar instala la herramienta usando el siguente codigo
+Para empezar instala la herramienta usando el siguente codigo
 ```bash
 sudo apt-get install aircrack-ng
 ```
 
 ### paso 2 - clonar el repsitorio 
 
-se debe de clonar el repositorio **recomendacion: escribir los scripts en modo sudo**
+Debe de clonar el repositorio **recomendacion: escribir los scripts en modo sudo**
 ```bash
 sudo gir colne 
 ```
 
 ### paso 3 - Descargar Diccionario y moverlo a la carpeta
 
-
-
+Descarga el diccionario llamado rockyou.txt
+*
+https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt&ved=2ahUKEwinzue5_9qNAxWERTABHQoiAqAQFnoECAkQAQ&usg=AOvVaw3snAERl1mU6Ccr4WFEazBd
+*
 
 
 
