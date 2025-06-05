@@ -1,7 +1,6 @@
 #!/bin/bash
 
 # ###############################################################################
-#                             WifiAudit.sh
 #  Herramienta educativa para auditar la seguridad de redes Wi-Fi WPA/WPA2.
 #          ÚSESE ÚNICAMENTE EN REDES DE TU PROPIEDAD Y CON PERMISO.
 # ###############################################################################
@@ -38,7 +37,7 @@ trap cleanup EXIT # Ejecuta la función 'cleanup' cuando el script termina
 clear
 echo -e "${BLUE}==============================================${NC}"
 echo -e "${BLUE}==         Herramienta de Auditoría Wi-Fi   ==${NC}"
-echo -e "${BLUE}==           (Propósitos Educativos)        ==${NC}"
+echo -e "${BLUE}==           WifiCrack V1.0 | By EJ         ==${NC}"
 echo -e "${BLUE}==============================================${NC}"
 echo -e "${RED}ADVERTENCIA: No uses esta herramienta en redes ajenas.${NC}\n"
 
