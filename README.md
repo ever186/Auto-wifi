@@ -53,7 +53,7 @@ sudo mv rockyou.txt /home/tu usuario/Auto-wifi
 Para ir a la carpeta donde se encuentra el archivo de Wificrack.sh, debes escribir el siguente script.
 
 ```bash
-sudo cd /home/tu_usuario/Auto-wifi
+cd /home/tu_usuario/Auto-wifi
 ```
 Una vez que te encuentres en la carpeta Auto-wifi verifica los archivos con el comando "ls".
 
