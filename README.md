@@ -41,7 +41,7 @@ Descarga el diccionario llamado rockyou.txt.
 
 Una vez descargaddo vas abrir la termina y colocar estos scripts.
 ```bash
-sudo cd download
+sudo cd Download
 ```
 Cuando estes en la carpeta de download colocaras el siguiente script.
 ```bash
