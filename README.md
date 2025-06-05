@@ -31,7 +31,7 @@ sudo apt-get install aircrack-ng
 
 Debe de clonar el repositorio **recomendacion: escribir los scripts en modo sudo**.
 ```bash
-sudo gir colne 
+sudo git clone https://github.com/ever186/Auto-wifi.git
 ```
 
 ### paso 3 - Descargar Diccionario y moverlo a la carpeta
